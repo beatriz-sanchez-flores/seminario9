@@ -1,0 +1,78 @@
+.sistema{
+    text-align: center;
+    height: 20px;
+    margin: 0;
+}
+.Sitio
+{
+    text-align: center;
+    font-family: Algerian Condenseds;
+    
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.Eliza
+{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+.experiencia
+{
+    color: black;
+    text-align: center;
+}
+
+.lis
+{
+    color: black;
+    text-align: center;
+}
+
+.Datos
+{
+    color: black;
+    text-align: center;
+   
+}
+
+.Beatriz
+{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table, th, td
+{
+border: 1px solid black;
+border-collapse: collapse;
+
+}
+
+table
+{
+width: 80%;
+margin-left: 150px;
+
+
+}
+
+th, td
+{
+    padding-left: 5px;
+    height: 35px;
+}
+tr > th 
+{
+    background-color: transparent (49, 142, 46);
+    color: black;
+}
